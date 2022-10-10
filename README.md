@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-aolsen07.github.io/Lab2_Starter
+[Lab 2 Page](aolsen07.github.io/Lab2_Starter)
